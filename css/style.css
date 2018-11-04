@@ -127,7 +127,7 @@ body {
     top: 0px;
     left: 0px;
     content: '';
-    background: url('/img/semantic-ui.png');
+    background: url('../img/semantic-ui.png');
     -moz-transform-origin: 50% 50%;
     -o-transform-origin: 50% 50%;
     -ms-transform-origin: 50% 50%;
