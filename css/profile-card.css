@@ -35,13 +35,13 @@
 .profile-card .networks i{
     color: #ffffff;
     text-decoration: none;
-    font-size: 2vw; 
+    font-size: 1.5vw; 
     line-height: 3vw; 
     width: 3vw; 
     height: 3vw;
     background: rgb(153,153,153); 
     border-radius: 50%; 
-    margin: 0.5vw;
+    margin: 0.25vw;
 }
 
 .profile-card .networks i:hover{
