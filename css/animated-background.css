@@ -45,10 +45,12 @@ body{
 .animated-background::after{
   position: absolute;
   z-index: 1;
-  width: 150%;
-  height: 150%;
+  width: 150vw;
+  height: 150vh;
   top: 0px;
   left: 0px;
+  right: 0px;
+  bottom: 0px;
   content: '';
   background: url('../img/semantic-ui.png');
   -moz-transform-origin: 50% 50%;
